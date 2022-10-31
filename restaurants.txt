@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6171c5df2e3cfa9108f66353"},"name":"Butter Paneer","description":"Made with paneer and some quick spicy content like chilly and flakes.","ingridients":["Paneer","Tomato"],"restaurantId":"617ad4872e3cfa9108d40856","image":"Assets/breakfast.jpg","qty":{"$numberInt":"0"},"price":"230"}

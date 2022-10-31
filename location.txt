@@ -1,0 +1,1 @@
+{"_id":{"$oid":"6170687a2ca2be3c5284f16f"},"name":"Shalimar Bagh","city_id":{"$numberInt":"1"},"location_id":{"$numberInt":"1"},"city":"Delhi","country_name":"India"}
